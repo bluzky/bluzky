@@ -1,11 +1,12 @@
 ### Hi there 👋
 
+I'm Dung Nguyen
 
-Here are some ideas to get you started:
-
+- ⭐ I'm a Web Developer at OnpointVietnam
 - 🔭 I’m currently working on Ecommerce Enabler project
 - 🌱 I’m currently learning parser & compiler
 - 📫 How to reach me: blusky.1289@gmail.com
+- 🔖 Visit my blog: https://bluzky.github.io/ or [Dev.to](https://dev.to/bluzky)
 
 
 
